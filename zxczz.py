@@ -3,7 +3,7 @@ import sys
 basket = []
 while True:
     print("=" * 20)
-    print("코디의 장바구니입니다.")
+    print("장바구니입니다.")
     print("=" * 20)
     print(" 1. 담겨있는 물건 확인하기")
     print("\n 2. 물건 추가하기")
